@@ -1,0 +1,13 @@
+{
+  "name": "agents-monitor",
+  "owner": {
+    "name": "Allan"
+  },
+  "plugins": [
+    {
+      "name": "agents-monitor",
+      "source": "./"
+    }
+  ],
+  "description": "Painel ao vivo dos agentes do Claude Code: subagentes, advisor, linha do tempo e páginas da wiki lidas e escritas"
+}

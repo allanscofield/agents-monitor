@@ -1,0 +1,9 @@
+{
+  "name": "agents-monitor",
+  "version": "0.1.0",
+  "description": "Painel ao vivo dos agentes da sessão: sessão principal, subagentes, advisor, linha do tempo e páginas da wiki lidas e escritas",
+  "author": {
+    "name": "Allan"
+  },
+  "types": "./types/index.d.ts"
+}
