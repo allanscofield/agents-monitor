@@ -16,3 +16,12 @@ Painel ao vivo, ao lado do chat, que mostra o que os agentes do Claude Code est�
 
 - Testes: `claude plugin test .`
 - Validação: `claude plugin validate .`
+
+## Instalação
+
+```bash
+claude plugin marketplace add allanscofield/agents-monitor
+claude plugin install agents-monitor@agents-monitor
+```
+
+Depois rode `/reload-plugins` (ou abra uma nova sessão) e `/agents-monitor`.
